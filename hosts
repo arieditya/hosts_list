@@ -17,7 +17,16 @@
 #	   38.25.63.10	 x.acme.com			  # x client host
 
 # localhost name resolution is handled within DNS itself.
-#	127.0.0.1	   localhost
+127.0.0.1		localhost
+127.0.1.1		aried-le-nono
+
+::1 ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+
 #	::1			 localhost
 
 ## LOCALHOST
@@ -68,6 +77,10 @@
 127.0.0.1		dev.divorceink.com
 127.0.0.1		dev.divorce-ink.org	 
 127.0.0.1		prjct.omronald.com
+
+#### TEST WILD CARD ####
+127.0.0.1		*.rg
+
 
 ## DOMAIN SHORTCUT
 
