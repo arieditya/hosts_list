@@ -34,6 +34,7 @@ ff02::3 ip6-allhosts
 
 
 127.0.0.1		core.rg
+127.0.0.1		core-local.ruangguru.com
 127.0.0.1		scm.kelas.rg
 127.0.0.1		privat.rg
 127.0.0.1		laravel.ruang.guru
