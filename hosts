@@ -248,7 +248,7 @@ ff02::3 ip6-allhosts
 54.221.222.248		www.sitepoint.com
 202.146.4.100		srv.kompas.com
 
-125.160.18.58		cdn.kmplayer.com
+#125.160.18.58		cdn.kmplayer.com
 203.123.240.36		ronaldsimanjuntak.com
 203.123.240.36		jordan.ronaldsimanjuntak.com
 203.123.240.36		www.ronaldsimanjuntak.com
@@ -329,6 +329,24 @@ ff02::3 ip6-allhosts
 193.104.215.61		www.adobe.com
 
 ## SELF ADS REMOVER
+127.0.0.1		go.onclasrv.com
+127.0.0.1		onclasrv.com
+127.0.0.1		s10.histats.com
+127.0.0.1		s1.histats.com
+127.0.0.1		s2.histats.com
+127.0.0.1		s3.histats.com
+127.0.0.1		s4.histats.com
+127.0.0.1		s5.histats.com
+127.0.0.1		s6.histats.com
+127.0.0.1		s7.histats.com
+127.0.0.1		s8.histats.com
+127.0.0.1		s9.histats.com
+127.0.0.1		histats.com
+127.0.0.1		sstatic1.histats.com
+127.0.0.1		04dn8g4f.space
+127.0.0.1		hlu9tseh.men
+127.0.0.1		xbfk51p7.review	
+127.0.0.1		39o9mcr2.party
 127.0.0.1		irtula.ru
 127.0.0.1		umekana.ru
 127.0.0.1		lvodomi.info
@@ -348,12 +366,25 @@ ff02::3 ip6-allhosts
 127.0.0.1		engine.adzerk.net
 127.0.0.1		static.adzerk.net
 127.0.0.1		pl4492652.puhtml.com
+127.0.0.1		pl4492652.puserving.com
+127.0.0.1		hilltopads.net
 127.0.0.1		cfs.uzone.id
 127.0.0.1		cdn.popads.net
 127.0.0.1		c1.popads.net
 127.0.0.1		c2.popads.net
+127.0.0.1		www.wkgaqvvwvqjg.com
+127.0.0.1		commartmationakk.com
+127.0.0.1		1914bdbdca2651a2b.com
+127.0.0.1		www.yaifxxudxyns.com
 127.0.0.1		www.vpfiiojohjch.com
 127.0.0.1		www.frdhsmerubfg.com
+127.0.0.1		www.heefwozhlxgz.com
+127.0.0.1		www.mlgrrqymdsyk.com
+127.0.0.1		atomicblast.lol
+127.0.0.1		brakefluid.website
+127.0.0.1		ayabreya.xyz
+127.0.0.1		deletemer.online
+127.0.0.1		clickadu.com
 127.0.0.1		href.li
 127.0.0.1		bguaeoakgmrw.com
 127.0.0.1		go.onclasrv.com
