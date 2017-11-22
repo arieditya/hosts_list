@@ -35,6 +35,9 @@ ff02::3 ip6-allhosts
 
 127.0.0.1		core.rg
 127.0.0.1		core-local.ruangguru.com
+127.0.0.1               image-service-local.ruangguru.com
+127.0.0.1               rubel-service-local.ruangguru.com
+127.0.0.1		rubel-local.ruangguru.com
 127.0.0.1		scm.kelas.rg
 127.0.0.1		privat.rg
 127.0.0.1		laravel.ruang.guru
@@ -58,6 +61,22 @@ ff02::3 ip6-allhosts
 127.0.0.1		contentigniter.com
 127.0.0.1		project.contentigniter.com
 127.0.0.1		expedisi.com
+
+
+35.185.180.9 		image-service.ruangguru.com
+35.185.180.9            rubel-service.ruangguru.com
+161.202.28.84           docker-rubel-service.ruangguru.com
+35.185.180.9            rubay-service.ruangguru.com
+35.185.180.9		docker-image.ruangguru.com
+
+35.194.192.252 		core-m.ruangguru.com
+
+# 23.50.62.27		video-cdn.ruangguru.com
+# 104.199.166.126		backend.ruangguru.com		# backend 5
+# 104.199.202.123		backend.ruangguru.com		# backend 6
+# 23.50.63.19         		backend.ruangguru.com		# backend akamai
+# 35.185.131.4         		backend.ruangguru.com		# backend cron
+# 23.47.99.201		ruangguru.com
 
 127.0.0.1		dev.bej.com
 127.0.0.1		dev.rentalfleet.com
@@ -83,7 +102,7 @@ ff02::3 ip6-allhosts
 
 #### TEST WILD CARD ####
 127.0.0.1		*.rg
-
+127.0.0.1		family.tree
 
 ## DOMAIN SHORTCUT
 
@@ -146,9 +165,13 @@ ff02::3 ip6-allhosts
 64.233.171.95		ajax.googleapis.com
 
 67.212.88.10		kickass.so
+104.27.216.28		thepiratebay.org
 
 216.97.47.179		lola-lola.com
 
+104.27.214.30		yts.ag
+104.16.165.50		openload.co
+151.101.0.217		player.vimeo.com
 185.37.100.119		rarbg.com
 185.37.100.119		rarbg.me
 185.37.101.229		1.rarbg.me
@@ -193,6 +216,19 @@ ff02::3 ip6-allhosts
 5.1.75.100		tracker.yify-torrents.com
 67.212.83.32		yify-torrents.com
 
+149.154.167.118		t.me 
+149.154.167.118		telegram.me 
+149.154.167.99		telegram.org 
+149.154.167.99		core.telegram.org 
+149.154.167.99		desktop.telegram.org 
+149.154.167.99		macos.telegram.org 
+149.154.167.120		web.telegram.org
+149.154.167.24		venus.web.telegram.org 
+149.154.175.16		pluto.web.telegram.org 
+149.154.171.22		flora.web.telegram.org 
+149.154.171.22		flora-1.web.telegram.org
+
+
 #52.76.178.240		blog.ruangguru.com
 
 #162.144.248.12		ruangguru.com
@@ -202,6 +238,7 @@ ff02::3 ip6-allhosts
 #162.144.248.12		ruangguru.com
 #162.144.248.12		mail.ruangguru.com
 #46.137.214.115		landing.ruangguru.com
+161.202.28.83		gudang.ruangguru.com
 
 #### NEW SERVER !!!!
 52.74.235.251		tes.dev.ruangguru.com
@@ -239,6 +276,7 @@ ff02::3 ip6-allhosts
 94.102.52.18		akiba-online.com
 
 #192.30.252.129		github.com
+159.203.215.52		docs.anvato.com
 173.194.68.95		ajax.googleapis.com
 173.194.68.95		googleapis.com
 207.54.151.21		jastusa.com
@@ -247,6 +285,7 @@ ff02::3 ip6-allhosts
 23.235.39.193		i.imgur.com
 54.221.222.248		www.sitepoint.com
 202.146.4.100		srv.kompas.com
+104.27.217.28		thepiratebay.org
 
 #125.160.18.58		cdn.kmplayer.com
 203.123.240.36		ronaldsimanjuntak.com
@@ -274,6 +313,15 @@ ff02::3 ip6-allhosts
 184.73.216.200		www.wattpad.com
 184.73.216.200		a.wattpad.com
 
+104.28.2.239		javcl.com
+
+104.27.183.66		semprot.com
+
+104.27.167.145		javsex.net
+104.27.172.92		cdn.javfull.net
+104.27.172.92		javfull.net
+104.24.105.142		sv.javfull.tv
+104.24.105.142		javfull.tv
 #208.80.124.4		tjoob.com
 #208.80.124.4		www.tjoob.com
 #208.80.124.4		thumbs.tjoob.com
@@ -282,6 +330,9 @@ ff02::3 ip6-allhosts
 #208.80.124.4		media3.tjoob.com
 #208.80.124.4		media4.tjoob.com
 #208.80.124.4		media5.tjoob.com
+
+104.20.28.168		static.hentaicdn.com
+104.20.28.168		hentai2read.com
 
 209.239.168.56		www.xxxlf.com
 #64.237.33.119		www.nuru-massage.com
@@ -311,6 +362,11 @@ ff02::3 ip6-allhosts
 78.152.36.130		www.kuntfutube.com
 104.27.142.119		sex01.tv
 104.31.15.177		xonline.tv
+104.18.34.101		xmovies.to
+104.18.34.101		i.xmovies.to
+209.85.233.132		yt3.ggpht.com
+104.28.19.105		www3.javmost.com
+81.171.8.226		anybunny.com
 
 87.248.203.253		img100.xvideos.com
 95.211.170.250		www.ant.com
@@ -327,8 +383,10 @@ ff02::3 ip6-allhosts
 69.55.53.77		upload.xvideos.com
 173.194.70.95		ajax.googleapis.com
 193.104.215.61		www.adobe.com
+104.23.204.30		putlockers.ch
 
 ## SELF ADS REMOVER
+127.0.0.1		internetpositif.uzone.id
 127.0.0.1		go.onclasrv.com
 127.0.0.1		onclasrv.com
 127.0.0.1		s10.histats.com
@@ -412,9 +470,9 @@ ff02::3 ip6-allhosts
 127.0.0.1		www.popcash.net
 127.0.0.1		www.	onclickads.net
 127.0.0.1		onclickads.net
-127.0.0.1		onesignal.com
-127.0.0.1		www.onesignal.com
-127.0.0.1		cdn.onesignal.com
+#127.0.0.1		onesignal.com
+#127.0.0.1		www.onesignal.com
+#127.0.0.1		cdn.onesignal.com
 127.0.0.1		eclkmpsa.com
 127.0.0.1		pagead2.googlesyndication.com
 127.0.0.1		gooyaabitemplates.com
